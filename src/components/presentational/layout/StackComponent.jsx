@@ -15,6 +15,10 @@ function StackComponent() {
       link: "https://www.ruby-lang.org/pt/",
     },
     {
+      name: "PHP",
+      link: "https://www.php.net/",
+    },
+    {
       name: "Node",
       link: "https://nodejs.org/en",
     },
