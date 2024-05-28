@@ -3,9 +3,9 @@ import Link from "next/link";
 
 function PresentationContent() {
   return (
-    <div className="flex min-h-screen flex-col items-center text-center align-middle justify-center">
-      <h1 className="text-7xl mb-3 font-bold">Olá, eu sou o Eduardo</h1>
-      <p className="text-xl mb-1">
+    <div className="flex min-h-screen text-white flex-col items-center text-center align-middle justify-center">
+      <h1 className="text-7xl text-white mb-3 font-bold">Olá, eu sou o Eduardo</h1>
+      <p className="text-xl mb-1 text-white">
         Desenvolvedor Backend e apaixonado por tecnologia
       </p>
       <div className="w-full flex justify-center space-x-1">
