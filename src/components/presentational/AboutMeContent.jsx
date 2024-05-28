@@ -3,7 +3,7 @@ import StackComponent from "./layout/StackComponent";
 
 function AboutMeContent() {
   return (
-    <div className="flex flex-col min-h-screen space-y-[10%] pt-[20%]">
+    <div className="flex text-white flex-col min-h-screen space-y-[10%] pt-[20%]">
       <TextComponent
         title="Sobre mim"
         position={"text-left"}
